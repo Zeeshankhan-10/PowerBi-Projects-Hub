@@ -4,7 +4,8 @@
 This project presents an interactive Power BI dashboard built to analyze sales performance, track key business metrics, and uncover insights from transactional data. The dashboard enables users to explore trends, compare performance across categories, and support data-driven decision-making.
 
 ---
-- <a href="https://github.com/Zeeshankhan-10/PowerBi-Projects-Hub/blob/main/PowerBi%20Project%20-%201.pbix"Datasheet View</a> 
+-- <a href="https://github.com/Zeeshankhan-10/PowerBi-Projects-Hub/blob/main/PowerBi%20Project%20-%201.pbix"Dataview </a> 
+
 
 ## 🎯 Objective
 - Monitor key sales metrics and KPIs  
